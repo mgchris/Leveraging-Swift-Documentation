@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Introduction'/>
+        <page name='Links'/>
+        <page name='Shortcuts'/>
+        <page name='LookAtTypes'/>
+        <page name='QuickHelp'/>
+        <page name='CustomDocumentation'/>
+        <page name='Attributes'/>
+        <page name='DuckClass'/>
+        <page name='DuckProtocol'/>
+        <page name='MoreProtocols'/>
+        <page name='BeforeGenerics'/>
+        <page name='Generics'/>
+        <page name='MoreGenerics'/>
+        <page name='Dissecting'/>
+        <page name='DissectingHard'/>
+        <page name='Spelunking'/>
+    </pages>
+</playground>
